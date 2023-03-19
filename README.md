@@ -1,8 +1,11 @@
 # notion_api
 
 Project in Flutter using Notion API to use it we need to create an env file with Notion Api Token and Notion BD
+<br>
 File .env
+<br>
 NOTION_API_KEY={TOKEN}
+<br>
 NOTION_DATABASE_ID={ID_DATEBASE}
 ## Getting Started
 
